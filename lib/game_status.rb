@@ -5,4 +5,4 @@ end
 
 # Define your WIN_COMBINATIONS constant
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-WIN_COMBINATIONS = 
+WIN_COMBINATIONS = [[0]]
