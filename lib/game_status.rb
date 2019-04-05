@@ -28,7 +28,7 @@ def won?(board)
 end
 
 def full?(board)
-  board.all? do |box|
-    box == "X" || box == "O"
+  board.all? do |spot|
+    spot == "X" || spot == "O"
   end
 end
