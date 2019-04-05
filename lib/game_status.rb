@@ -32,3 +32,5 @@ def full?(board)
     spot == "X" || spot == "O"
   end
 end
+
+
